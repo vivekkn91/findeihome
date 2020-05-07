@@ -1,0 +1,37 @@
+a.navbar-brand {
+
+margin-right: 30%;
+}
+.bg-light {
+    background-color: #3e1154 !important;
+}
+
+.btn-outline-success {
+    color: #ffffff;
+    border-color: #e44b40;
+    padding-left: 40%;
+ 
+    border-radius: 1.25rem;
+    background-color: #e44b40;
+}
+.navbutton{
+    padding: 0.375rem 3.75rem!important;
+}
+.navbar-light .navbar-nav .nav-link {
+    color: rgb(255, 255, 255);
+}
+.navbar-expand-lg .navbar-nav .nav-link {
+    padding-right: 0.5rem;
+    padding-left: 2rem;
+}
+.secondnav{
+
+    flex-direction: row!important;
+}
+.navbar-light .navbar-brand {
+    color: rgba(255, 255, 255, 0.9);
+    font-size: 40px;
+}
+.recomaded {padding: 1% 5%;}
+body{
+    overflow-x: hidden;}

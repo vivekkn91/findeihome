@@ -1,0 +1,8 @@
+@import "~bootstrap/dist/css/bootstrap.css";
+
+
+.card-body {
+
+    padding: 3.25rem;
+        font-size: 43px;
+}
